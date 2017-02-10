@@ -1,0 +1,116 @@
+.shadow-container {
+  max-height: 700px;
+  line-height: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+ p.stars {
+  color: #f6cc4c !important;
+}
+
+#slogan {
+  padding-top: 127px;
+}
+
+/*//search box*/
+#find {
+    background-color: antiquewhite;
+    height: 4.35rem;
+    width: 134%;
+    font-size: 2rem;
+}
+
+/*-find- textarea position*/
+.input-field.col label {
+    left: 1.50rem;
+    color: dimgrey;
+}
+
+/*cards*/
+.card .card-title {
+    font-size: 18px;
+    font-weight: 500px;
+}
+
+.card .card-content {
+    padding: 10px;
+    border-radius: 0 0 2px 2px;
+}
+
+.card .card-content .card-title {
+    display: block;
+    line-height: 42px;
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+
+.card .card-content p {
+    margin: -5px;
+    font-style: italic;
+    font-size: 0.85rem;
+    line-height: 110%;
+    margin: .3rem 0 .4rem 0;
+}
+
+.parallax {
+  position: absolute;
+  display: block;
+}
+/*-------------*/
+
+div {
+  display: block;
+}
+
+a {
+  color: white;
+}
+
+/*headline color*/
+h1 {
+  color:white;
+  font-size: 5.2rem;
+  line-height: 119%;
+  margin: 9rem 0 9rem 0;
+  font-weight: 100;
+}
+
+/*//neightborhood*/
+h6 {
+    font-size: 0.85rem;
+    line-height: 110%;
+    margin: .3rem 0 .4rem 0;
+    font-style: italic;
+}
+
+/*p {
+  font-size: 1rem;
+}*/
+
+.row .col.s4 {
+    /*search box and GO btn connecting*/
+    width: 29.333333%;
+    margin-left: 412px;
+    margin-right: -414px;
+    margin-bottom: 22px;
+    margin-top: -46px;
+}
+
+.section {
+  padding-bottom: 5rem;
+}
+/*position of header headline and search box*/
+
+span {
+  font-size: 1rem;
+}
+
+/*//GO button*/
+.btn {
+  background-color: #f6cc4c;
+}
+
+footer.page-footer {
+  background-color: #f6cc4c !important;
+}
